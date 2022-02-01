@@ -420,6 +420,7 @@ html,body{
 .ar_desc{
 	margin: 5px;
 	height:40%;
+	font-size:14px;
 }
 
 @media all and (min-width: 640px) 
